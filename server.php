@@ -3,7 +3,7 @@
 class Server {
 
 	private $users = [];
-	private $statuses = ['status1', 'status2', 'status3', 'status4', 'status5'];
+	private $statuses = ['cloudy', 'foggy', 'sunny'];
 
 	/**
 	 * Constructor for Server Class
